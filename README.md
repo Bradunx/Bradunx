@@ -11,7 +11,7 @@ I like realizing tech projects as a one-man band. 🎸🥁🎷🎻🎹
 - Soldering skills
 
 📚A self-learner in some topics to complete my skills regarding what I need to know:
-- Everything related to PCBs -> KiCAD
+- Everything related to PCBs -> KiCad
 - Everything related to 3D modeling -> Blender/FreeCAD
 
 🎥I created a [YouTube channel](https://www.youtube.com/@bradunx) to showcase my work and explain why and how I do my different projects:
