@@ -20,6 +20,14 @@ I like realizing tech projects as a one-man band. 🎸🥁🎷🎻🎹
 🎮 I'm currently working on the 1st final version of my dream controller, from a prototype to a real product
 The first fully functionnal prototype is [here](https://github.com/Bradunx/ProtoPad)
 
+# Current state of the final version:
+
+<img width="320" height="320" alt="ProtoPad_v2" src="https://github.com/user-attachments/assets/7966fd13-9767-45c6-8121-4f9c22cf691b" />
+<img width="320" height="320" alt="Dpad" src="https://github.com/user-attachments/assets/870ee857-70c7-43bc-a281-93e213eca570" />
+
+
+
+
 
 <!--
 **Bradunx/Bradunx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
