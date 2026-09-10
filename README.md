@@ -14,10 +14,11 @@ I like realizing tech projects as a one-man band. 🎸🥁🎷🎻🎹
 - Everything related to PCBs -> KiCAD
 - Everything related to 3D modeling -> Blender/FreeCAD
 
-🎥I created a YouTube channel to showcase my work and explain why and how I do my different projects:
+🎥I created a [YouTube channel](https://www.youtube.com/@bradunx) to showcase my work and explain why and how I do my different projects:
 - Everything related to video -> DaVinci Resolve
 
 🎮 I'm currently working on the 1st final version of my dream controller, from a prototype to a real product
+The first fully functionnal prototype is [here](https://github.com/Bradunx/ProtoPad)
 
 <!--
 **Bradunx/Bradunx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
