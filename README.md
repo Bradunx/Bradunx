@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Bradunx
+# I'm Bradunx
 
 I like realizing tech projects as a one-man band. 🎸🥁🎷🎻🎹
 - Idea -> Working on software and hardware -> Assembling it -> Sharing my work in video format.
@@ -19,6 +19,7 @@ I like realizing tech projects as a one-man band. 🎸🥁🎷🎻🎹
 
 🎮 I'm currently working on the 1st final version of my dream controller, from a prototype to a real product
 The first fully functionnal prototype is [here](https://github.com/Bradunx/ProtoPad)
+
 
 <!--
 **Bradunx/Bradunx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
