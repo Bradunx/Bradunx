@@ -17,10 +17,11 @@ I like realizing tech projects as a one-man band. 🎸🥁🎷🎻🎹
 🎥I created a [YouTube channel](https://www.youtube.com/@bradunx) to showcase my work and explain why and how I do my different projects:
 - Everything related to video -> DaVinci Resolve
 
-🎮 I'm currently working on the 1st final version of my dream controller, from a prototype to a real product
+#
+🎮 I'm currently working on the 1st final version of my dream controller, from a prototype to a real product.
 The 1st fully functionnal prototype is [here](https://github.com/Bradunx/ProtoPad)
 
-# LAST UPDATE - 22/09/26:
+# LAST UPDATE - 22/09/26
 
 <img width="320" height="320" alt="Timeline 3" src="https://github.com/user-attachments/assets/c5048114-8a90-4e92-a6d0-19517db4da8d" />
 <img width="320" height="320" alt="Dpad" src="https://github.com/user-attachments/assets/870ee857-70c7-43bc-a281-93e213eca570" />
