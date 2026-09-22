@@ -22,7 +22,7 @@ The 1st fully functionnal prototype is [here](https://github.com/Bradunx/ProtoPa
 
 # LAST UPDATE - 22/09/26:
 
-<img width="360" height="360" alt="Timeline 3" src="https://github.com/user-attachments/assets/ce430669-6bf1-4f9c-9dc5-9b251c3fe037" />
+<img width="320" height="320" alt="Timeline 3" src="https://github.com/user-attachments/assets/c5048114-8a90-4e92-a6d0-19517db4da8d" />
 <img width="320" height="320" alt="Dpad" src="https://github.com/user-attachments/assets/870ee857-70c7-43bc-a281-93e213eca570" />
 
 
