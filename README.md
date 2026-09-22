@@ -18,11 +18,11 @@ I like realizing tech projects as a one-man band. 🎸🥁🎷🎻🎹
 - Everything related to video -> DaVinci Resolve
 
 🎮 I'm currently working on the 1st final version of my dream controller, from a prototype to a real product
-The first fully functionnal prototype is [here](https://github.com/Bradunx/ProtoPad)
+The 1st fully functionnal prototype is [here](https://github.com/Bradunx/ProtoPad)
 
-# Current state of the final version:
+# LAST UPDATE - 22/09/26:
 
-<img width="320" height="320" alt="ProtoPad_v2" src="https://github.com/user-attachments/assets/7966fd13-9767-45c6-8121-4f9c22cf691b" />
+<img width="360" height="360" alt="Timeline 3" src="https://github.com/user-attachments/assets/ce430669-6bf1-4f9c-9dc5-9b251c3fe037" />
 <img width="320" height="320" alt="Dpad" src="https://github.com/user-attachments/assets/870ee857-70c7-43bc-a281-93e213eca570" />
 
 
